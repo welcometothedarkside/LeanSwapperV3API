@@ -1,0 +1,119 @@
+{
+    "Cosmetics": 
+    [
+        {
+            "name":"Renegade Raider",
+            "swapname":"Redline",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect",
+
+            "uasset1":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+            "uassetsearch1":"RedLineBodySearch",
+            "uassetpak1":"RedLineBodyPak",
+            "uassetoffset1":"RedLineBodyOffset",
+            "uasset1Search":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack"
+            ],
+            "uasset1Replace":
+            [
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20"
+            ]
+        },
+        {
+            "name":"Pink Ghoultrooper",
+            "swapname":"Default",
+            "icon":"https://cdn.discordapp.com/attachments/844952556811714601/862056743675887676/1ae62feafbcf487726ba4830d121a4a7.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862056897960345660/latest.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Purple Skulltrooper",
+            "swapname":"Default",
+            "icon":"https://cdn.discordapp.com/attachments/844952556811714601/862057118735794186/sgnjl7agwdl51.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862056897960345660/latest.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Aerial Assault Trooper",
+            "swapname":"Redline",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_017_athena_commando_m/icon.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_162_athena_commando_f_streetracer/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Black Knight",
+            "swapname":"Default",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_035_athena_commando_m_medieval/icon.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862056897960345660/latest.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Travis Scott",
+            "swapname":"Diamond Diva",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_703_athena_commando_m_cyclone/icon.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_936_athena_commando_f_raidersilver/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Wildcat",
+            "swapname":"Shadow Ruby",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_757_athena_commando_f_wildcat/icon.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Boardwalk Ruby",
+            "swapname":"Shadow Ruby",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/icon.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862086626086486036/6eaed5c6-c4b4-4832-b591-48bd76d47f55.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Christmas Renegade",
+            "swapname":"Frozen Nog Ops",
+            "icon":"https://media.discordapp.net/attachments/844952556811714601/862436287641026581/unknown.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_653_athena_commando_f_uglysweaterfrozen/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Galaxy",
+            "swapname":"Default",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_175_athena_commando_m_celestial/icon.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862056897960345660/latest.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        },
+        {
+            "name":"Wonder",
+            "swapname":"Default",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_434_athena_commando_f_stealthhonor/icon.png",
+            "swapicon":"https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png",
+            "itemtype":"skin",
+            "itemperfect":"nonperf"
+        },
+        {
+            "name":"Surf Witch",
+            "swapname":"She Hulk",
+            "icon":"https://fortnite-api.com/images/cosmetics/br/cid_805_athena_commando_f_punkdevilsummer/icon.png",
+            "swapicon":"https://cdn.discordapp.com/attachments/844952556811714601/862086626086486036/6eaed5c6-c4b4-4832-b591-48bd76d47f55.png",
+            "itemtype":"skin",
+            "itemperfect":"perfect"
+        }
+        
+    ]
+}
